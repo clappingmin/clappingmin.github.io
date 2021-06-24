@@ -2,7 +2,10 @@
 layout: post
 title: 2021 네이버 부스트캠프 6기 1차 코딩테스트 후기
 date: 2026-06-25 00:09 +0800
-tags: [네이버 부스트캠프, 코딩테스트, 부캠]
+tags:
+- 네이버 부스트캠프
+- 코딩테스트
+- 부캠
 ---
 
 저는 <a href="https://boostcamp.connect.or.kr/program_wm.html">**2021년 네이버 부스트캠프 웹,모바일**</a>에 지원하였습니다.
