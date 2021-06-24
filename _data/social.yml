@@ -1,9 +1,9 @@
 - title: Email
   url: mailto://clappingmin@gmail.com
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter
+# - title: Twitter
+#   url: https://twitter.com/vszhub
+#   icon: fab fa-twitter
 - title: GitHub
   url: https://github.com/clappingmin
   icon: fab fa-github
