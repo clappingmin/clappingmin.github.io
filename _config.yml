@@ -1,11 +1,11 @@
 # Setup
 title: 김전일
-description: 우울한 개발자 지망생
+description: 
 url: https://clappingmin.github.io
 avatar: /pro_heart.png
 paginate: 5
 permalink: pretty
-cover_image: /black.jpg
+cover_image: /sky.jpg
 
 # Gems
 plugins:
