@@ -24,7 +24,6 @@ image:
   - undefined
   - Symbol (ES6에서 추가됨)
 - 참조형
-
   - object
   - Array
   - Function
