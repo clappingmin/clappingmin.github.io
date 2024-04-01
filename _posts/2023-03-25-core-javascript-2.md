@@ -66,7 +66,7 @@ console.log(a); // 1
 
 ## 03 LexicalEnvironment
 
-### environment와 호이스팅
+### environmentRecord와 호이스팅
 
 - environmentRecord는 현재 컨텍스트와 관련된 코드의 식별자 정보들이 저장된다.
 - 컨텍스트를 구성하는 삼수에 지정된 매개변수 식별자, 선언한 함수가 있을 경우 그 함수 자체, var로 선언된 변수의 식별자 등
