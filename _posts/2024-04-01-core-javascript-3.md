@@ -2,7 +2,7 @@
 title: "[코어 자바스크립트] 03 this"
 description: "코어 자바스크립트 03 실행 this를 읽고 내용을 요약했습니다."
 author: "clappingmin"
-date: 2023-04-01 20:00:00 +0800
+date: 2024-04-01 20:00:00 +0800
 categories: [Books, 코어 자바스크립트]
 tags: [책, 코어 자바스크립트]
 image:

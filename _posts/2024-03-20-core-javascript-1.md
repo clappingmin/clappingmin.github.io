@@ -2,7 +2,7 @@
 title: "[코어 자바스크립트] 01 데이터 타입"
 description: "코어 자바스크립트 01 데이터 타입을 읽고 내용을 요약했습니다."
 author: "clappingmin"
-date: 2023-03-20 21:33:00 +0800
+date: 2024-03-20 21:33:00 +0800
 categories: [Books, 코어 자바스크립트]
 tags: [책, 코어 자바스크립트]
 image:

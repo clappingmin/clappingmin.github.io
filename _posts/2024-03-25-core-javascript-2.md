@@ -2,7 +2,7 @@
 title: "[코어 자바스크립트] 02 실행 컨텍스트"
 description: "코어 자바스크립트 02 실행 컨텍스트를 읽고 내용을 요약했습니다."
 author: "clappingmin"
-date: 2023-03-25 20:00:00 +0800
+date: 2024-03-25 20:00:00 +0800
 categories: [Books, 코어 자바스크립트]
 tags: [책, 코어 자바스크립트]
 image:
